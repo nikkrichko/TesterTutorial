@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="23" started-at="2014-06-22T17:47:38Z" finished-at="2014-06-22T17:47:38Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="23" started-at="2014-06-22T17:47:38Z" finished-at="2014-06-22T17:47:38Z">
+      <class name="nkrichkoTesterTutorisal.AppTest">
+        <test-method status="PASS" signature="testMain()[pri:0, instance:nkrichkoTesterTutorisal.AppTest@40c78689]" name="testMain" duration-ms="7" started-at="2014-06-22T20:47:38Z" finished-at="2014-06-22T20:47:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMain -->
+      </class> <!-- nkrichkoTesterTutorisal.AppTest -->
+      <class name="nkrichkoTesterTutorisal.lesson_1.CreateFileTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:nkrichkoTesterTutorisal.lesson_1.CreateFileTest@6e7b1d52]" name="setUp" is-config="true" duration-ms="1" started-at="2014-06-22T20:47:38Z" finished-at="2014-06-22T20:47:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:nkrichkoTesterTutorisal.lesson_1.CreateFileTest@6e7b1d52]" name="test" duration-ms="0" started-at="2014-06-22T20:47:38Z" finished-at="2014-06-22T20:47:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:nkrichkoTesterTutorisal.lesson_1.CreateFileTest@6e7b1d52]" name="tearDown" is-config="true" duration-ms="0" started-at="2014-06-22T20:47:38Z" finished-at="2014-06-22T20:47:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:nkrichkoTesterTutorisal.lesson_1.CreateFileTest@6e7b1d52]" name="setUp" is-config="true" duration-ms="0" started-at="2014-06-22T20:47:38Z" finished-at="2014-06-22T20:47:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCreateFile()[pri:0, instance:nkrichkoTesterTutorisal.lesson_1.CreateFileTest@6e7b1d52]" name="testCreateFile" duration-ms="1" started-at="2014-06-22T20:47:38Z" finished-at="2014-06-22T20:47:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateFile -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:nkrichkoTesterTutorisal.lesson_1.CreateFileTest@6e7b1d52]" name="tearDown" is-config="true" duration-ms="1" started-at="2014-06-22T20:47:38Z" finished-at="2014-06-22T20:47:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- nkrichkoTesterTutorisal.lesson_1.CreateFileTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
